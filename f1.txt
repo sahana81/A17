@@ -1,5 +1,4 @@
 123
 aaaaaaaaaaaaa
-Hey Beautiful
 I am dng this in git bash
-i am dng it again
+i am dng it this time around in bash again
